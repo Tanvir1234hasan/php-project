@@ -1,0 +1,6 @@
+1st config.php
+2nd registration.php
+3rd process.php
+4th login page
+5th action.php
+6th home.php
